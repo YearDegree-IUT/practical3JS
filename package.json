@@ -1,0 +1,23 @@
+{
+  "name": "practical3",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YearDegree-IUT/practical3JS.git"
+  },
+  "author": "Aurelien Pligot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YearDegree-IUT/practical3JS/issues"
+  },
+  "homepage": "https://github.com/YearDegree-IUT/practical3JS",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "~0.6.0"
+  }
+}
